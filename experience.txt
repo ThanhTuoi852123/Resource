@@ -1,0 +1,10 @@
+Developed and scripted multiple Roblox games using Lua, focusing on gameplay mechanics and monetization systems.
+Collaborated with a team of builders and scripters to create immersive experiences with over 100K visits.
+Designed optimized 3D assets and environments using Roblox Studio to ensure smooth performance across devices.
+Integrated data stores, leaderboards, and badge systems to enhance player progression and retention.
+Built custom UI elements and menus using TweenService and UI constraints for mobile-friendly interfaces.
+Tested and debugged complex scripts, reducing game-breaking bugs and improving player experience.
+Created GFX and thumbnails to promote games and increase click-through rate on the Roblox platform.
+Managed community feedback and implemented gameplay updates based on player suggestions.
+Worked on animation rigs and character controllers to bring dynamic movement to in-game avatars.
+Contributed to monetization features such as gamepasses, dev products, and ad placements.
