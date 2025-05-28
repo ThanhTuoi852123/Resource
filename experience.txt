@@ -19,9 +19,9 @@ Balancing monetization and player experience is my favorite challenge.
 Self-taught Lua scripter building daily in Roblox Studio.
 Optimizing scripts for better performance is my obsession.
 I love turning game ideas into working code.
-Backend systems > visuals. I'm here for the logic.
+Backend systems > visuals. Im here for the logic.
 Scripted matchmaking, shops, and custom tool handlers.
-Secure, efficient, modular. That's how I script.
+Secure, efficient, modular. Thats how I script.
 Wrote my own admin commands and anti-exploit system.
 Obsessed with clean architecture and reusable Lua modules.
 Scripting isnt just coding—its bringing the game to life.
