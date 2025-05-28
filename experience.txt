@@ -8,3 +8,52 @@ Created GFX and thumbnails to promote games and increase click-through rate on t
 Managed community feedback and implemented gameplay updates based on player suggestions.
 Worked on animation rigs and character controllers to bring dynamic movement to in-game avatars.
 Contributed to monetization features such as gamepasses, dev products, and ad placements.
+Developed and scripted multiple Roblox games using Lua, focusing on gameplay mechanics and monetization systems.
+Passionate Roblox developer with 3+ years of experience in scripting and UI design.
+Created custom modules for inventory, trading, and real-time combat in Roblox Studio.
+I build immersive worlds and make them run smoothly with Lua.
+Always prototyping, always learning. Roblox scripting is my playground.
+Building tycoons, obbies, and story-driven games – all solo.
+I focus on clean code and fun gameplay. DM for collabs!
+Balancing monetization and player experience is my favorite challenge.
+Self-taught Lua scripter building daily in Roblox Studio.
+Optimizing scripts for better performance is my obsession.
+I love turning game ideas into working code.
+Backend systems > visuals. I'm here for the logic.
+Scripted matchmaking, shops, and custom tool handlers.
+Secure, efficient, modular. That's how I script.
+Wrote my own admin commands and anti-exploit system.
+Obsessed with clean architecture and reusable Lua modules.
+Scripting isnt just coding—its bringing the game to life.
+From remote events to client-server communication, I do it all.
+Specializing in performance-heavy systems like pathfinding and raycasting.
+My games blend fun mechanics with immersive worldbuilding.
+I design systems that reward curiosity and player interaction.
+My goal: create games people want to replay.
+Gameplay first. Graphics second. Monetization third.
+Created interactive NPCs with custom dialogue and behavior trees.
+Every asset, script, and UI element is handcrafted.
+I love designing progression systems that feel natural and satisfying.
+Game design isnt luck. Its iteration and feedback.
+Building engaging loops and retention mechanics is my focus.
+Creating mechanics that keep players saying one more round!
+Currently working on a large-scale multiplayer project with a small team.
+Open to commissions and dev roles. Check my portfolio.
+Freelance scripter. Available for hire.
+Experienced in team-based development and GitHub collaboration.
+Delivered monetization results through gamepass + devproduct strategy.
+I trat game development like a business—and business is good.
+Testing, debugging, documenting – I do the full dev cycle.
+Led a team of 5 devs on a successful Roblox release.
+UI/UX is just as important as code to me.
+Analytics-driven updates: I dont guess what players want—I test it
+Always experimenting with new gameplay styles and code patterns.
+Still learning, still improving. Every line of code gets me closer.
+Started with free models, now scripting full systems from scratch.
+Learning from every failed project and coming back stronger.
+Every game I make teaches me something new.
+I script daily and break things often. Thats how I grow.
+One year ago, I didnt even know what a RemoteEvent was.
+Sharing what I learn on DevForum and Discord.
+Work in progress – but Im proud of how far Ive come.
+Lua is my second language now.
