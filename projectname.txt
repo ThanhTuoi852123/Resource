@@ -1,55 +1,104 @@
-Master of Game Mechanics  
-Chief Bug Fixer  
-Code Execution Specialist  
-Dream Feature Architect  
-Head of Creative Chaos  
-Gameplay Systems Engineer  
-Lead Innovation Hacker  
-Player Experience Optimizer  
-Ultimate Idea Generator  
-Roblox Systems Alchemist  
-Frontline UI Warrior  
-Balance Adjustment Officer  
-World Builder Supreme  
-Script Sorcery Specialist  
-Async Event Commander  
-Multiplayer Logic Wizard  
-SFX Integration Chief  
-Platform Optimization Guru  
-Creative Prototype Ninja  
-Head of Lua Strategy  
-Latency Reduction Expert  
-Fantasy Logic Designer  
-User Joy Engineer  
-Pixel Flow Director  
-Visual Feedback Controller  
-Ultimate UX Researcher  
-Player Retention Lead  
-Interactive World Maker  
-Creative Gameplay Designer  
-Studio Automation Officer  
-Fun Curve Analyst  
-Dynamic Encounter Creator  
-Ultimate Level Designer  
-Game Loop Engineer  
-Engagement Strategy Pilot  
-Chief Lore Developer  
-Ultimate Monetization Planner  
-Mechanic Breakthrough Lead  
-Player Satisfaction Manager  
-Script Refactoring Specialist  
-Experimental Gameplay Scientist  
-Core Loop Analyst  
-Fun Engineering Manager  
-Event Scripting Ninja  
-Community Feedback Architect  
-Ultimate World Designer  
-Behavior Tree Manager  
-Data Store Supervisor  
-Session Flow Tactician  
-Emotional Impact Specialist  
-Creative Experience Leader  
-Mechanics Performance Officer  
+Master Coder  
+Script Ninja  
+Gameplay Engineer  
+Bug Crusher  
+Design Wizard  
+Feature Architect  
+Balance Tuner  
+UX Strategist  
+System Analyst  
+Visual Artist  
+World Designer  
+Lua Sorcerer  
+Backend Crafter  
+Network Optimizer  
+Level Creator  
+Mechanics Guru  
+Game Tester  
+User Experience Pro  
+Performance Hacker  
+Shader Builder  
+3D Modeler  
+Sound Engineer  
+Gameplay Tester  
+Code Cleaner  
+Event Scripter  
+Server Architect  
+UI Designer  
+Tool Developer  
+Animation Lead  
+Input Handler  
+Lore Writer  
+Cutscene Director  
+Game Producer  
+Collision Fixer  
+AI Programmer  
+UI Flow Designer  
+Skin Creator  
+Platform Integrator  
+DevOps Wizard  
+Script Validator  
+Modding Expert  
+Data Analyst  
+Progression Planner  
+Blueprint Engineer  
+Tutorial Designer  
+Input Mapper  
+Bug Reporter  
+Replay Engineer  
+Memory Manager  
+Engine Tweaker  
+Story Planner  
+Function Writer  
+Event Designer  
+Asset Organizer  
+Optimization Lead  
+Skill Tree Designer  
+Save System Engineer  
+Physics Debugger  
+Render Pipeline Dev  
+Emote Coder  
+Character Customizer  
+Dialog Writer  
+Cinematics Planner  
+Multiplayer Designer  
+Map Balancer  
+UI Interaction Lead  
+Gameplay Loop Designer  
+In-Game Economy Planner  
+Upgrade System Coder  
+Clipping Fixer  
+Title Screen Developer  
+Matchmaker Engineer  
+User Flow Optimizer  
+Server Sync Lead  
+Level Progression Engineer  
+Game State Architect  
+Input Response Manager  
+Quest System Engineer  
+Pathfinding Developer  
+Effects Integrator  
+Tick Rate Engineer  
+Spawn Logic Lead  
+Session Manager  
+Game Settings Developer  
+Achievement Tracker  
+HUD Designer  
+Battle System Dev  
+Crafting System Lead  
+AI Behavior Designer  
+Visual Effect Tuner  
+Voice Line Manager  
+Matchflow Optimizer  
+Team Sync Engineer  
+Sandbox System Dev  
+Data Tracker  
+Cooldown Mechanic Lead  
+Animation Sync Dev  
+Config Manager  
+Session Host Engineer  
+Upgrade Tree Planner  
+Content Injection Lead  
 Nebula Drift  
 Silent Circuit  
 Project Mirage  
@@ -347,3 +396,303 @@ Fluxspheres
 Thornborned  
 Ebonkeepers  
 Darkloopers  
+Shadow Crafters  
+Pixel Syndicate  
+Code Legion  
+Devverse  
+Echo Squad  
+Bug Slayers  
+Gamehounds  
+Loopbreakers  
+Render Force  
+Mechanics Core  
+Nova Guild  
+Script Titans  
+Vision Makers  
+Unity Patrol  
+Frame Benders  
+Quest Forgers  
+Logic Masters  
+The Frame Chasers  
+Playmakers  
+Dream Scripters  
+Team Zero Lag  
+The Byte Squad  
+Trigger League  
+Spawn Control  
+The Debuggers  
+Bit Battalion  
+Team Skyforge  
+Collision Crew  
+Nextgen Crew  
+The Pulse Unit  
+Input Squad  
+AI Collective  
+Pathfinders  
+Control Syndicate  
+Taskforce Respawn  
+The Lore Crafters  
+Tickrate Unit  
+The Nether Coders  
+Savepoint Team  
+Packet Raiders  
+HUD Makers  
+Emberstorm Devs  
+Frostbyte Unit  
+Code Wielders  
+Chrono Builders  
+Ghostline Team  
+Wavelength Squad  
+Syncwave Force  
+Echo Circuit  
+Lunacy Crew  
+Arcane Pixels  
+Questweavers  
+The Server Keepers  
+Action Binders  
+Respawn Engineers  
+The Gameplane  
+Render Shift  
+Mechanix Guild  
+Controlline Team  
+Gridforce Devs  
+The Progression Pact  
+Craftlogic  
+Scene Rebuilders  
+Scriptstorm  
+The Game Stash  
+Byteflow Core  
+Team Fallback  
+Gameplan Syndicate  
+Cooldown Circle  
+Loopforge  
+The Dev Nest  
+Bitcraft Unit  
+Spectral Systems  
+Pathlogic Crew  
+Timeline Coders  
+Cooldown Cult  
+Stacktrace Alliance  
+Functioneers  
+Coreburst Team  
+Syncguardians  
+Buildspire  
+Eventweavers  
+Crafting Syndicate  
+Starlag Network  
+HUDforce  
+Sessionlink  
+Team Hollowcode  
+Inputmasters  
+Gamelance Unit  
+Forgegrid  
+Codevault  
+Reactribe  
+Overlay Crew  
+Memoryfront  
+Riftmarkers  
+Shadowsync  
+Scene Squad  
+Code Sentinel  
+Loopspine  
+Visionroot  
+Scriptology  
+Glitch Hunter  
+Tickrate Optimizer  
+UI Flow Engineer  
+Frame Rate Fixer  
+Loot System Designer  
+AI Sync Specialist  
+Dialog System Engineer  
+Progression Flow Developer  
+Crafting Logic Master  
+Skillset Designer  
+Asset Loader  
+Teleport Logic Engineer  
+Module Maintainer  
+Lag Reduction Engineer  
+Memory Optimizer  
+Dynamic Lighting Artist  
+Scenario Scripter  
+Interaction Developer  
+Stat Tracker  
+World Event Engineer  
+Quest Tree Designer  
+Buff/Debuff Analyst  
+Combat Engine Dev  
+Loot Drop Tuner  
+Rank System Designer  
+Multiplayer Sync Lead  
+Network State Manager  
+Content Packager  
+Localization Lead  
+HUD Animator  
+Animation Sync Tester  
+In-game Metrics Dev  
+Timeline Coordinator  
+Node Graph Designer  
+Path Logic Engineer  
+Gear Drop Planner  
+Combo System Engineer  
+Team Matchmaker  
+Cutscene Editor  
+Input Delay Reducer  
+Battle Flow Planner  
+Replay System Developer  
+Camera Logic Engineer  
+Status Effect Coder  
+Dialog Trigger Developer  
+Scene Transition Expert  
+Audio Timing Engineer  
+Script Structure Reviewer  
+Entity Spawner  
+Ragdoll Physics Dev  
+Camera Shake Designer  
+UI Scaling Lead  
+Level Gatekeeper  
+Map Unlock Engineer  
+XP Curve Analyst  
+Reward System Dev  
+Item Fusion Architect  
+Environment Logic Dev  
+Speedrun Tester  
+Respawn Rule Engineer  
+Status Bar Designer  
+Shop System Developer  
+Health Regen Logic Dev  
+Control State Planner  
+Event Bridge Designer  
+Shader Timing Specialist  
+Lobby Creator  
+Title Screen Planner  
+Cursor Manager  
+Radial Menu Engineer  
+Team Color Coder  
+Scoring Logic Planner  
+Timer Manager  
+Savefile Handler  
+Achievement Chain Coder  
+Overlay FX Designer  
+Enemy AI Syncer  
+Item Interaction Engineer  
+Level Unlock Controller  
+Network Replay Tester  
+Pause Menu Developer  
+Event Timeline Tester  
+CheckPoint System Dev  
+Combo Chain Analyst  
+Zone Trigger Developer  
+HUD Interaction Tester  
+AI Wave Planner  
+World State Reset Dev  
+Cutscene Sequencer  
+Path Interrupt Handler  
+Session Event Dev  
+Map Marker Planner  
+3D Trigger Engineer  
+Fast Travel Coder  
+Victory Logic Engineer  
+Player State Tracker  
+Touch Input Dev  
+Mod Integration Engineer  
+Control Override Planner  
+Quantum Coders  
+Infinite Scripts  
+Bitforge Order  
+The Game Crafters  
+The Pixel Hounds  
+Nullbyte Knights  
+Codewatch Syndicate  
+DreamLoop Team  
+The Renderlings  
+Frameline Collective  
+LoopHackers  
+The Input Nexus  
+UI Alchemists  
+Stack Crafters  
+Devnode Core  
+Script Surge  
+Team Spawners  
+Voidline Unit  
+Errorproof Guild  
+CoreSync Squad  
+ScriptNest  
+Buffer Breakers  
+The Codemancers  
+Arcbyte Force  
+Debugstorm  
+Framehunters  
+Bitshift Brigade  
+Driftstate Devs  
+Script Relics  
+Core Crafters  
+SyncUnit  
+Pathgraph Guild  
+Overlay Knights  
+Gamecraft Union  
+The Nulllayers  
+HUDstorm  
+Codebound Syndicate  
+Bitgarden Team  
+ChronoSpire  
+DevRealm  
+Scriptoid Union  
+Trigger Builders  
+CraftLine Team  
+Pathloop Assembly  
+Lua Lords  
+NoBug Network  
+Skilltree Builders  
+Scriptiverse  
+The Input Squad  
+Tickbyte Union  
+The Control Cell  
+Questpulse Crew  
+AIcraft Team  
+Netvault Builders  
+Debugverse  
+UI Circuit Force  
+ScriptSpire  
+Worldweavers  
+Rendercode Clan  
+Sessionloop Devs  
+Team Mindframe  
+Pixelcrack Union  
+Scene Syncers  
+HUDroot Crew  
+Ghostcode Guild  
+UINest  
+MechanicForge  
+Dataflow Makers  
+LuaMaze  
+Bitburst Builders  
+Dreamstack  
+HUDlink Team  
+Echoflow Assembly  
+Craftstorm  
+The Meta Squad  
+GameSync Collective  
+Team Fogbyte  
+Pulsecore Guild  
+Visionbit Devs  
+FrameForge Crew  
+Voidscript Assembly  
+Driftroot Engineers  
+Loopverse Makers  
+Bitpulse Unit  
+Scenehackers  
+Mapcore Syndicate  
+The Respawners  
+Gametree Lab  
+Scriptcell Alliance  
+OverlayOps  
+The Debuglords  
+Codethreaders  
+Entity Crew  
+Stackgear Devs  
+AIgear Force  
+Renderbots  
+Projectloop Unit  
+Triggervault  
+Patchforce  
+Gameflow Squad  
