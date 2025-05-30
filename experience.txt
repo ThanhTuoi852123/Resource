@@ -57,3 +57,325 @@ One year ago, I didnt even know what a RemoteEvent was.
 Sharing what I learn on DevForum and Discord.
 Work in progress – but Im proud of how far Ive come.
 Lua is my second language now.
+Developed and scripted multiple Roblox games using Lua, focusing on gameplay mechanics and monetization systems  
+Collaborated with a team of builders and scripters to create immersive experiences with over 100K visits  
+Designed optimized 3D assets and environments using Roblox Studio to ensure smooth performance across devices  
+Integrated data stores, leaderboards, and badge systems to enhance player progression and retention  
+Built custom UI elements and menus using TweenService and UI constraints for mobile-friendly interfaces  
+Tested and debugged complex scripts, reducing game-breaking bugs and improving player experience  
+Created GFX and thumbnails to promote games and increase click-through rate on the Roblox platform  
+Managed community feedback and implemented gameplay updates based on player suggestions  
+Worked on animation rigs and character controllers to bring dynamic movement to in-game avatars  
+Contributed to monetization features such as gamepasses, dev products, and ad placements  
+Passionate Roblox developer with 3+ years of experience in scripting and UI design  
+Created custom modules for inventory, trading, and real-time combat in Roblox Studio  
+I build immersive worlds and make them run smoothly with Lua  
+Always prototyping, always learning  
+Roblox scripting is my playground  
+Building tycoons, obbies, and story-driven games – all solo  
+I focus on clean code and fun gameplay  
+DM for collabs!  
+Balancing monetization and player experience is my favorite challenge  
+Self-taught Lua scripter building daily in Roblox Studio  
+Optimizing scripts for better performance is my obsession  
+I love turning game ideas into working code  
+Backend systems > visuals  
+Im here for the logic  
+Scripted matchmaking, shops, and custom tool handlers  
+Secure, efficient, modular  
+Thats how I script  
+Wrote my own admin commands and anti-exploit system  
+Obsessed with clean architecture and reusable Lua modules  
+Scripting isnt just coding—its bringing the game to life  
+From remote events to client-server communication, I do it all  
+Specializing in performance-heavy systems like pathfinding and raycasting  
+My games blend fun mechanics with immersive worldbuilding  
+I design systems that reward curiosity and player interaction  
+My goal: create games people want to replay  
+Gameplay first  
+Graphics second  
+Monetization third  
+Created interactive NPCs with custom dialogue and behavior trees  
+Every asset, script, and UI element is handcrafted  
+I love designing progression systems that feel natural and satisfying  
+Game design isnt luck  
+Its iteration and feedback  
+Building engaging loops and retention mechanics is my focus  
+Creating mechanics that keep players saying one more round!  
+Currently working on a large-scale multiplayer project with a small team  
+Open to commissions and dev roles  
+Check my portfolio  
+Freelance scripter  
+Available for hire  
+Experienced in team-based development and GitHub collaboration  
+Delivered monetization results through gamepass + devproduct strategy  
+I trat game development like a business  
+Built cross-platform UI for seamless mobile and PC experiences  
+Created advanced AI behavior using state machines in NPCs  
+Maintained clean and modular codebase using Lua OOP practices  
+Automated testing scenarios using command-line scripting tools  
+Integrated Discord webhooks for community notifications  
+Used ProfileService for persistent player data saving  
+Implemented customizable keybinds and control schemes  
+Developed tycoon save/load systems using DataStore2  
+Wrote plugins to speed up in-editor development  
+Utilized FastCast for accurate projectile physics  
+Added visual effects using particle emitters and light animations  
+Scripted dynamic weather systems affecting gameplay  
+Optimized remote event usage to minimize lag  
+Designed systems for unlocking skins and achievements  
+Built story-driven quest systems with branching outcomes  
+Implemented secure trading systems between players  
+Created progression-based unlock trees for abilities  
+Developed turn-based combat systems for RPGs  
+Used raycasting for custom hit detection and shooting mechanics  
+Balanced in-game economy using analytics data  
+Created plugin-based camera systems for cutscenes  
+Simulated physics-based puzzles for immersive gameplay  
+Designed modular build kits for player-generated content  
+Scripted interactive minigames with randomization  
+Added region-lock systems for event triggers  
+Developed event-based systems with daily and weekly rewards  
+Implemented anti-cheat server checks using server-side validation  
+Created advanced pathfinding for enemy AI in obstacle courses  
+Optimized server-client architecture to reduce memory footprint  
+Built interactive tutorial systems for new players  
+Scripted layered inventory with sorting and filtering options  
+Used TweenService for immersive UI animations and feedback  
+Built feedback loop mechanics that incentivize engagement  
+Integrated ProximityPrompts for natural interactions  
+Managed datamodel versioning for live updates without downtime  
+Built matchmaking queues with lobby waiting and ranking logic  
+Implemented voice chat filters and toggles  
+Created community voting system for map selection  
+Developed animation events tied to gameplay mechanics  
+Utilized module scripts to reduce code duplication  
+Led design sprints and prototyping sessions with teammates  
+Scripted environmental hazards and zone logic  
+Built marketplace UI for skin previews and purchases  
+Integrated group roles for exclusive content access  
+Created layered outfits and avatar customization options  
+Scripted parkour-style movement using physics constraints  
+Developed HUDs that adapt to game state dynamically  
+Built quest chains with prerequisites and progression logic  
+Managed in-game currency conversions and exchange rates  
+Scripted end-of-round summaries with player stats  
+Built scripting APIs for other devs on the team
+Used ColorCorrection and Bloom for stylized graphics
+Optimized rendering performance with part streaming
+Created object pooling systems for projectiles
+Built tournament brackets with elimination logic
+Led cross-functional teams to deliver projects on time and under budget.
+Conducted market research to inform strategic decision-making.
+Developed custom software solutions for client-specific needs.
+Designed and implemented efficient database structures.
+Managed end-to-end product development lifecycle.
+Provided exceptional customer service in high-volume environments.
+Built and maintained responsive websites using modern frameworks.
+Created content strategies that increased brand engagement.
+Automated repetitive tasks to increase team productivity.
+Developed mobile applications for Android and iOS platforms.
+Analyzed financial statements to guide investment decisions.
+Improved warehouse operations through process optimization.
+Performed data analysis to identify trends and insights.
+Streamlined HR onboarding process using digital tools.
+Designed promotional materials for digital and print media.
+Conducted training workshops for new employees.
+Managed social media accounts and grew follower base.
+Led user testing sessions and collected feedback.
+Maintained IT infrastructure and network security.
+Produced motion graphics and video ads for campaigns.
+Developed SEO strategies that improved organic traffic.
+Responded to technical support queries and resolved issues.
+Created dashboards for tracking key business metrics.
+Wrote grant proposals and secured funding for programs.
+Built machine learning models to predict customer churn.
+Managed event logistics and coordinated vendor relationships.
+Designed UI/UX prototypes based on user feedback.
+Drafted contracts and reviewed legal documents.
+Built data pipelines using ETL tools and Python.
+Coordinated international shipping and logistics.
+Led agile sprints and managed Jira backlogs.
+Developed risk assessments and compliance reports.
+Prepared tax filings and managed accounts payable.
+Served as Scrum Master in weekly development cycles.
+Created wireframes and user flows for mobile apps.
+Assisted in clinical trials data entry and compliance.
+Implemented cybersecurity protocols to protect sensitive data.
+Handled customer escalations and resolved disputes.
+Curated online courses and learning materials.
+Conducted scientific literature reviews and meta-analyses.
+Monitored ad campaign performance and optimized ROI.
+Developed curriculum materials for secondary education.
+Supported grant administration and budget tracking.
+Managed real estate listings and client communications.
+Designed 3D models and visualizations for architecture projects.
+Assisted in the preparation of audit documentation.
+Wrote documentation for API endpoints and SDKs.
+Coached interns and junior team members.
+Handled payroll processing and benefits administration.
+Performed quality assurance checks on deliverables.
+Interfaced with external partners to coordinate outreach.
+Built ecommerce storefronts and integrated payment gateways.
+Designed packaging for consumer products.
+Prepared investor pitch decks and financial models.
+Maintained inventory systems and tracked stock levels.
+Translated documents and facilitated multilingual communication.
+Organized community outreach programs and fundraisers.
+Recorded and mixed audio for video production.
+Created product demos and tutorial videos.
+Maintained content calendars and editorial plans.
+Performed administrative duties and scheduled appointments.
+Researched competitors and presented findings to stakeholders.
+Designed visual identities and brand guidelines.
+Managed influencer relationships and affiliate programs.
+Authored technical blog posts and tutorials.
+Installed and configured servers and IT equipment.
+Developed budget plans and tracked expenditures.
+Supervised construction site operations and safety.
+Facilitated virtual meetings and webinars.
+Managed CRM databases and email marketing campaigns.
+Planned menus and managed restaurant kitchen operations.
+Edited manuscripts and coordinated publishing timelines.
+Drafted business proposals and RFP responses.
+Assisted patients and scheduled medical appointments.
+Supervised classroom activities and supported student learning.
+Programmed PLC systems for industrial automation.
+Ran usability tests and summarized results for stakeholders.
+Created educational illustrations and diagrams.
+Facilitated mediation sessions and conflict resolution.
+Designed mechanical parts using CAD software.
+Moderated forums and managed online communities.
+Operated CNC machinery and maintained equipment logs.
+Styled fashion photo shoots and managed wardrobe.
+Prepared and analyzed soil and water lab samples.
+Hosted podcasts and edited audio episodes.
+Prepared legal case summaries and briefs.
+Assembled electronics and conducted quality checks.
+Developed augmented reality experiences with Unity.
+Tested new pharmaceuticals and recorded side effects.
+Designed infographics and visual reports.
+Helped clients plan and book travel itineraries.
+Conducted forensic analysis for law enforcement.
+Grew hydroponic crops and maintained indoor farms.
+Created marketing funnels and automated email flows.
+Performed transcription and translation services.
+Cleaned and restored archival documents.
+Implemented DevOps pipelines using CI/CD tools.
+Ran political campaign canvassing operations.
+Customized ERP modules for manufacturing workflows.
+Grew social channels for nonprofit advocacy campaigns.
+Taught ESL courses to adult learners.
+Wrote novels, screenplays, and short stories.
+Painted murals and designed public art installations.
+Recorded training videos and voiceovers for clients.
+Ran simulations for climate data modeling.
+Advised on intellectual property rights and usage.
+Drafted internal reports and presented findings to senior management.
+Trained new hires on company systems and compliance procedures.
+Led quality control efforts in a high-volume production facility.
+Responded to customer service tickets and resolved issues efficiently.
+Monitored KPI metrics and produced weekly performance dashboards.
+Prepared proposals for government grant applications.
+Collaborated with cross-department teams to streamline operations.
+Conducted usability testing for a mobile banking application.
+Photographed products for online catalog and social media.
+Assisted legal team in discovery document organization.
+Documented software features and wrote technical manuals.
+Edited internal newsletters and distributed to 500+ employees.
+Facilitated professional development workshops for staff.
+Helped manage company booth at international trade shows.
+Processed vendor invoices and maintained payment schedules.
+Designed interactive learning modules for LMS platforms.
+Performed field inspections and wrote compliance reports.
+Handled packaging design and coordinated with printing vendors.
+Moderated live chat support for ecommerce websites.
+Installed POS systems at retail store locations.
+Styled product photoshoots and coordinated props.
+Maintained online knowledge base articles and help content.
+Created storyboard sketches for marketing animation.
+Reconciled monthly financial records and flagged discrepancies.
+Handled B2B communications for procurement contracts.
+Built custom analytics dashboards using Google Data Studio.
+Supported engineering team with CAD drawing revisions.
+Prepared agenda and minutes for board meetings.
+Proofread academic research for publication submission.
+Moderated live webinar Q&A sessions with industry experts.
+Built chatbot workflows using no-code platforms.
+Planned staff events and internal team-building activities.
+Produced subtitles and transcriptions for educational videos.
+Coordinated influencer outreach for product launches.
+Performed outreach to secure corporate sponsorships.
+Organized digital asset libraries for content teams.
+Developed script breakdowns for film production planning.
+Built PowerPoint presentations for executive briefings.
+Repaired and maintained laptops and office tech equipment.
+Assisted in community-based environmental surveys.
+Prepared GIS maps and spatial analysis for city planning.
+Managed creative briefs for outsourced design teams.
+Created custom keyboard shortcuts for workflow efficiency.
+Compiled interview transcripts for research teams.
+Built backend form validation scripts using JavaScript.
+Liaised with editors and proofreaders for manuscript reviews.
+Researched advertising benchmarks for campaign optimization.
+Designed templates for internal reports and memos.
+Produced animated explainer videos for clients.
+Created inventory reorder algorithms to reduce overstock.
+Evaluated ad copy performance using A/B testing results.
+Wrote case studies for successful customer stories.
+Documented team best practices and SOPs.
+Assembled training kits and printed manuals.
+Tested web accessibility using screen reader tools.
+Supported data migration for ERP system rollout.
+Created onboarding guides for new partners.
+Logged and triaged software bugs reported by QA.
+Generated analytics reports for email campaigns.
+Drafted user personas and journey maps for design thinking.
+Organized webinars and followed up with participant feedback.
+Configured cloud-based CRM tools for small businesses.
+Developed onboarding email sequences for SaaS product.
+Performed server maintenance during scheduled downtimes.
+Provided bilingual customer support in English and Spanish.
+Built templates for standard legal agreements.
+Designed print-ready annual reports and infographics.
+Produced short-form video content for social platforms.
+Created mobile-optimized product landing pages.
+Maintained Excel databases with thousands of entries.
+Wrote technical documentation for hardware installation.
+Proofread and updated internal wiki pages.
+Developed brand messaging strategies with marketing leads.
+Helped schedule social media posts across platforms.
+Assisted in QA testing of mobile apps before release.
+Maintained contact lists and managed email outreach.
+Designed signage for in-store marketing campaigns.
+Reviewed resumes and scheduled job candidate interviews.
+Built cost estimation tools for sales teams.
+Photographed company events and edited for newsletter.
+Conducted surveys and analyzed response data.
+Programmed microcontrollers for small automation tasks.
+Managed returns and inventory discrepancies for warehouse.
+Organized focus groups and summarized feedback results.
+Coordinated peer review cycles for grant proposals.
+Drafted content outlines for corporate training courses.
+Planned travel itineraries and handled visa processing.
+Created internal dashboards for budget tracking.
+Developed loyalty program strategy for retail brand.
+Installed and configured plugins for CMS platforms.
+Assisted architects in preparing construction documentation.
+Created competitive intelligence reports for business unit.
+Wrote captions and alt text for accessibility compliance.
+Scanned archival materials and indexed metadata.
+Developed case tracking tools for legal clinic operations.
+Managed purchase orders and supplier negotiations.
+Built forecast models for quarterly revenue projections.
+Researched policy impacts for local government initiatives.
+Created virtual backgrounds for video conferencing.
+Prepared compliance documentation for ISO audits.
+Managed cloud file system and permission structures.
+Created onboarding workflows in HR software.
+Formatted slide decks for consistency and branding.
+Helped with social good initiatives and fundraising drives.
+Transcribed interview audio for dissertation research.
+Installed software updates across lab computers.
+Wrote scripts for internal training animations.
+Managed internal ticketing system and escalations.
